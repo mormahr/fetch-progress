@@ -1,6 +1,6 @@
 {
   "name": "@mormahr/fetch-progress",
-  "version": "1.2.0-overwrite.2",
+  "version": "1.2.0-overwrite.3",
   "description": "Progress of response for fetch API",
   "main": "index.js",
   "typings": "index.d.ts",
